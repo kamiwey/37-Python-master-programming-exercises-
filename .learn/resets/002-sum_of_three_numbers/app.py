@@ -4,4 +4,4 @@ second_number = int(input("Second input"))
 third_number = int(input("Third input"))
 # print here the sum of three inputs
 
-print(int(first_number) + int(second_number) + int(third_number))
+print(first_number+second_number)
